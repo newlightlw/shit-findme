@@ -1,0 +1,8 @@
+{
+  "name": "Copy of 拉屎找我",
+  "description": "全方位接管你的如厕时刻 - 计时、健康记录、如厕伴侣与坑位评测。",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
